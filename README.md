@@ -1,2 +1,2 @@
-# divi-builder-conditional-loading
-A simple WordPress plugin that will only load the Divi Builder plugin's scripts and styles if the builder is active on the current page.
+# Divi Builder Conditional Script and Style Loading
+The plugin version of the Divi builder loads its scripts and styles on all page regardless of whether the builder is active on the current page or not.  This simple plugin checks to see if the builder is active on the current page and then allows these scripts and styles to only load when the builder is present.
